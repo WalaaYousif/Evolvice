@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dataset>
+	<TWO_G_REGION_SETTING REC_ID="1" PARAM_1="sas"
+		PARAM_2="aa" PARAM_3="aaaa" PARAM_4="qq" DELETED="0" />
+	<TWO_G_REGION_SETTING REC_ID="2" PARAM_1="sas"
+		PARAM_2="aa" PARAM_3="aaaa" PARAM_4="qq" DELETED="0" />
+</dataset>
+

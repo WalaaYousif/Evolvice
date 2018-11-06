@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<dataset>
+	<SA_USER REC_ID="1" NAME="walaa" PASSWORD="walaa" DELETED="0" />
+	<SA_USER REC_ID="2" NAME="rana" PASSWORD="rana" DELETED="0" />
+</dataset>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<dataset>
+	<CORE_RADIO_NETWORK_TECH REC_ID="1" TECH_NAME="s"
+		DELETED="0" />
+	<CORE_RADIO_NETWORK_TECH REC_ID="2" TECH_NAME="aa"
+		DELETED="0" />
+</dataset>

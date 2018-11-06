@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<dataset>
+	<TWO_G_RELATIONS_LINES REC_ID="1" SRC_CELL="t"
+		NBR_CELL="r" DELETED="0" HEADER_ID="1" PARAM_1="w" PARAM_2="a"
+		PARAM_3="l" PLANNING_STATUS="1" />
+		
+	<TWO_G_RELATIONS_LINES REC_ID="2" SRC_CELL="ss"
+		NBR_CELL="s" DELETED="0" HEADER_ID="2" PARAM_1="w" PARAM_2="a"
+		PARAM_3="l" PLANNING_STATUS="1" />
+</dataset>
+

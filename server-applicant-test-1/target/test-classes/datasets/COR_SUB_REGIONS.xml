@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<dataset>
+	<COR_SUB_REGIONS REC_ID="1" SUB_NAME="xx" PARENT_REGION="1" DELETED="0" />
+	<COR_SUB_REGIONS REC_ID="2" SUB_NAME="aa" PARENT_REGION="1" DELETED="0" />
+</dataset>
+
