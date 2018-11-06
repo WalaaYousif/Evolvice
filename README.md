@@ -41,9 +41,13 @@ application
 Now you can run the project use SpringBoot
 
 run this API on postman
+```
 1)http://localhost:8080/car/getAllCars -->Get Mapping
+
 2)http://localhost:8080/car/softDeleteCarById/1 -->Put Mapping
+
 3)http://localhost:8080/car/hardDeleteCarById/2 -->Delete Mapping
+
 4)http://localhost:8080/car/updateCarById?id=3 -->Put Mapping
 and put it in body
 
@@ -63,7 +67,7 @@ and put it in body
 	"yearOfProduction":"2019/01/01 00:00",
 	"details":"details"
 }
-
+```
 ## Authors
 
 * **Walaa Yousif**
