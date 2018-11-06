@@ -1,6 +1,6 @@
 # Evolvice
 
-Stores cars
+Store cars
 
 ## Getting Started
 
@@ -38,9 +38,9 @@ application
 
 ## Running
 
-Now you can run the project use SpringBoot
+Now you can run the project with using SpringBoot
 
-run this API on postman
+Run this API on postman
 ```
 1)http://localhost:8080/car/getAllCars -->Get Mapping
 
